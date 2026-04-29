@@ -34,7 +34,7 @@ Link: [Live site](https://masquefa-lurate.vercel.app)
 
 ### Bioinformatic Data Curation Pipeline — Bachelor's Thesis
 
-Designed and developed a guided data curation pipeline for bioinformatics researchers, enabling biologists to filter and manage scientific articles in a faster, simpler and safer way — without requiring technical expertise.
+Designed and developed a guided data curation pipeline for bioinformatics researchers, enabling biologists to filter and manage scientific articles in a faster, simpler and safer way without requiring technical expertise.
 
 **Tech:** React, Node.js, GitHub Actions, Vercel
 **Impact:** Reduced manual curation time significantly by automating filtering steps and providing a guided, user-friendly workflow for non-technical users
