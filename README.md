@@ -34,7 +34,7 @@ Link: [Live site](https://niu1636242.github.io/reCollecTF2/)
 
 The complete thesis can be found here:
 
-📄 [Bachelor Thesis (PDF)](docs/InformeFinalTFG.pdf)
+📄 [Bachelor Thesis (PDF)](InformeFinalTFG.pdf)
 
 ---
 
