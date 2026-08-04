@@ -29,7 +29,12 @@ Designed and developed a guided data curation pipeline for bioinformatics resear
 
 **Tech:** React, Node.js, GitHub Actions, Vercel
 **Impact:** Reduced manual curation time significantly by automating filtering steps and providing a guided, user-friendly workflow for non-technical users
+
 Link: [Live site](https://niu1636242.github.io/reCollecTF2/)
+
+The complete thesis can be found here:
+
+📄 [Bachelor Thesis (PDF)](docs/InformeFinalTFG.pdf)
 
 ---
 
